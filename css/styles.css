@@ -1,16 +1,28 @@
 body {
   font-family: Arial;
+  text-align: center;
+  background-color: rgb(rgb(44, 44, 44));
+  color: white;
 }
 
 h1 {
   color: blue;
 }
 
-.header {
+h3 {
   text-align: center;
 }
 
-.pepper-pic {
-  height: 250px;
+.header {
+
+}
+
+.pictures {
+  height: 300px;
   border-radius: 25px;
+}
+
+.coding-pic {
+  height: 300px;
+
 }
