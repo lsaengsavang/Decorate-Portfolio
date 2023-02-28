@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  color: blue;
+}
+
+.header {
+  text-align: center;
+}
+
+.pepper-pic {
+  height: 250px;
+  border-radius: 25px;
+}
