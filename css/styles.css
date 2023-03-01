@@ -23,3 +23,7 @@ h3 {
   height: 300px;
 
 }
+
+ul {
+  list-style-position: inside;
+}
