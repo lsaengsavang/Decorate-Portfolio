@@ -48,5 +48,5 @@ nav a:visited {
 
 body > a {
   display: block;
-
+  margin-bottom: 10px;
 }
