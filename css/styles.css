@@ -8,23 +8,24 @@ header {
   background-image: url(https://p0.pxfuel.com/preview/788/12/912/astrophotography-stars-clouds-sky.jpg);
   border: 2px solid;
   border-radius: 10px;
-  margin-bottom: 20px;
   color:rgb(255, 255, 255);
   padding-bottom: 10px;
 }
 
-.links {
+nav a {
   display: inline-block;
+  margin: 0 0 0 20px;
 }
-li:hover {
+
+nav a:hover {
  text-shadow: 1px 1px 3px white;
 }
 
-li:visited {
+nav a:visited {
   color: rgb(202, 189, 255);
 }
 
-.coding-section {
+section {
   border: 2px solid;
   border-radius: 10px;
   background-color: white;
@@ -32,8 +33,6 @@ li:visited {
 
 .about-me {
   background-color: #688dff;
-  border: 2px solid;
-  border-radius: 10px;
 }
 
 .pictures {
@@ -46,7 +45,7 @@ li:visited {
 
 }
 
-ul {
+.project {
   list-style-position: inside;
   text-decoration: none;
 }
