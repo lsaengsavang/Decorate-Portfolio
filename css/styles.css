@@ -15,6 +15,7 @@ header {
 nav a {
   display: inline-block;
   margin: 0 0 0 20px;
+  color: rgb(202, 189, 255)
 }
 
 nav a:hover {
@@ -22,7 +23,7 @@ nav a:hover {
 }
 
 nav a:visited {
-  color: rgb(202, 189, 255);
+  color: rgb(165, 143, 253);
 }
 
 .about-me {
