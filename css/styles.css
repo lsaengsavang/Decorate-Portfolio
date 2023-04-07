@@ -25,12 +25,6 @@ nav a:visited {
   color: rgb(202, 189, 255);
 }
 
-section {
-  border: 2px solid;
-  border-radius: 10px;
-  background-color: white;
-}
-
 .about-me {
   background-color: #688dff;
 }
@@ -48,8 +42,11 @@ section {
 .project {
   list-style-position: inside;
   text-decoration: none;
+  display: block; 
+  margin-bottom: 10px;
 }
 
-br {
-  margin-bottom: 100px;
+body > a {
+  display: block;
+
 }
